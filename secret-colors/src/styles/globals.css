@@ -1,0 +1,71 @@
+.small {
+  width: 40px;
+  height: 40px;
+}
+
+.large {
+  width: 60px;
+  height: 60px;
+}
+
+.botao-redondo {
+  border-radius: 50%;
+  margin: 4px;
+}
+
+.vazio {
+  background: rgb(59, 59, 84);
+  background: radial-gradient(circle, rgba(59, 59, 84, 1) 0%, rgba(0, 0, 14, 1) 65%, rgba(59, 59, 84, 1) 100%);
+  box-shadow: 1px 1px gray;
+}
+
+.cor-certa {
+  background: rgb(196, 196, 171);
+  background: radial-gradient(circle, rgba(196, 196, 171, 1) 0%, rgba(255, 255, 241, 1) 65%, rgba(196, 196, 171, 1) 100%);
+  box-shadow: 1px 1px gray;
+}
+
+.posicao-certa {
+  background: rgb(255, 59, 84);
+  background: radial-gradient(circle, rgba(225, 59, 84, 1) 0%, rgba(255, 0, 14, 1) 65%, rgba(225, 59, 84, 1) 100%);
+  box-shadow: 1px 1px gray;
+}
+
+.cor1 {
+  background-color: crimson;
+  border: 1px solid rgb(184, 183, 183);
+}
+
+.cor2 {
+  background-color: gold;
+  border: 1px solid rgb(184, 183, 183);
+}
+
+.cor3 {
+  background-color: green;
+  border: 1px solid rgb(184, 183, 183);
+}
+
+.cor4 {
+  background-color: white;
+  border: 1px solid rgb(184, 183, 183);
+}
+
+.cor5 {
+  background-color: magenta;
+  border: 1px solid rgb(184, 183, 183);
+}
+
+.cor6 {
+  background-color: cyan;
+  border: 1px solid rgb(184, 183, 183);
+}
+
+.resultado-parcial-box {
+  width: 6.875rem;
+  height: 6.875rem;
+  border-radius: 15px;
+  border: 3px solid black;
+  background-color: #7c7f83;
+  box-shadow: 2px 2px #ced4da;
+}
