@@ -1,4 +1,4 @@
-import BotaoRedondo from '../button/botao-redondo'
+import BotaoRedondo from './botao-parcial'
 
 type Props = {
     qtdeCerto: number
