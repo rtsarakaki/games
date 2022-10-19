@@ -1,8 +1,8 @@
 import BotaoRedondo from './botao-parcial'
 
 type Props = {
-    qtdeCerto: number
-    qtdeMeioCerto: number
+    qtdeCerto?: number
+    qtdeMeioCerto?: number
 }
 
 export default function ResultadoParcial(props: Props) {
